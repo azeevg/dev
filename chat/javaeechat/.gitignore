@@ -1,2 +1,5 @@
 .idea
 javaeechat.iml
+
+# Project exclude paths
+/target/
